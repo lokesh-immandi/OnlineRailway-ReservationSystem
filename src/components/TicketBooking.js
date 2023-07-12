@@ -138,6 +138,8 @@ class TicketBooking extends Component {
                       <option value="Bandel"> Bandel </option>
                       <option value="Siliguri"> Siliguri </option>
                       <option value="Dumdum"> Dumdum </option>
+                      <option value="VandeBharat">Chennai</option>
+                      <option value="Bharat">Mumbai</option>
                     </select>
                     <label> To : </label>
                     <select
@@ -153,6 +155,8 @@ class TicketBooking extends Component {
                       <option value="Bandel"> Bandel </option>
                       <option value="Puri"> Puri </option>
                       <option value="Howrah"> Howrah </option>
+                      <option value="VandeBharat">Tirupati</option>
+                      <option value="Bharat">Kolkata</option>
                     </select>
 
                     <label> No of Tickets : </label>

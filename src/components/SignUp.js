@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import axios from "axios";
+import { Toast } from "reactstrap";
 
 export default class SignUp extends Component {
     constructor() {
@@ -45,6 +46,7 @@ export default class SignUp extends Component {
         genderError:"Gender length should be more than 1"})
       }
       else{
+        // Toast.info('success')
         return true
       }
 

@@ -25,6 +25,7 @@ class TrainList extends Component {
       .get("http://localhost:9030/search/findAllTrains")
       .then(response => {
         this.setState({ traintickets: response.data });
+        console.log(response.data);
       })
       .catch(function(error) {
         console.log(error);
