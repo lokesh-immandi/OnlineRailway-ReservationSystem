@@ -66,3 +66,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Screenshot (1762)](https://github.com/lokesh-immandi/OnlineRailway-ReservationSystem/assets/63138397/4846de3f-d07b-49ec-9d04-be53073635e7)
